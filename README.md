@@ -8,7 +8,7 @@ CleverGolem is a sandbox for practicing Git fundamentals — committing, branchi
 
 ## What I'm Learning
 
-- [ ] Initializing a repo (`git init`)
+- [X] Initializing a repo (`git init`) 
 - [ ] Staging and committing (`git add`, `git commit`)
 - [ ] Connecting to a remote (`git remote`, `git push`)
 - [ ] Branching and merging (`git branch`, `git merge`)
